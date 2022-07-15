@@ -50,7 +50,7 @@ namespace Calculadora_1
             this.num1_txt.Name = "num1_txt";
             this.num1_txt.Size = new System.Drawing.Size(100, 22);
             this.num1_txt.TabIndex = 0;
-            this.num1_txt.TextChanged += new System.EventHandler(this.num1_txt_TextChanged);
+            this.num1_txt.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.num1_txt_KeyPress);
             // 
             // num2_txt
             // 
@@ -58,7 +58,7 @@ namespace Calculadora_1
             this.num2_txt.Name = "num2_txt";
             this.num2_txt.Size = new System.Drawing.Size(100, 22);
             this.num2_txt.TabIndex = 1;
-            this.num2_txt.TextChanged += new System.EventHandler(this.num2_txt_TextChanged);
+            this.num2_txt.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.num2_txt_KeyPress);
             // 
             // radioButton1
             // 
@@ -156,7 +156,7 @@ namespace Calculadora_1
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(216, 185);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(0, 39);
+            this.label4.Size = new System.Drawing.Size(0, 38);
             this.label4.TabIndex = 10;
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 

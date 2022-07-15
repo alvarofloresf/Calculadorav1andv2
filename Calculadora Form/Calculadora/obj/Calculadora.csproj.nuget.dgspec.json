@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora1y2\\Calculadora Form\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora1y2\\Calculadora Form\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora1y2\\Calculadora Form\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora1y2\\Calculadora Form\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\alvaro.flores\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\alvaro.flores\\source\\repos\\Calculadora1y2\\Calculadora Form\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alvaro.flores\\AppData\\Roaming\\NuGet\\NuGet.Config",

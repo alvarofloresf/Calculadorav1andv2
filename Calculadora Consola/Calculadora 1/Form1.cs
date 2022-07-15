@@ -18,21 +18,6 @@ namespace Calculadora_1
             InitializeComponent();
         }
         
-        private void num1_txt_TextChanged(object sender, KeyPressEventArgs e)
-        {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
-                e.Handled = true;
-            }
-        }
-
-        private void num2_txt_TextChanged(object sender, KeyPressEventArgs e)
-        {
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
-            {
-                e.Handled = true;
-            }
-        }
 
         private void label1_Click(object sender, EventArgs e)
         {
@@ -98,6 +83,22 @@ namespace Calculadora_1
         private void Limpiar_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void num1_txt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.') && (e.KeyChar != '-'))
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void num2_txt_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) && (e.KeyChar != '.' ) && (e.KeyChar != '-'))
+            {
+                e.Handled = true;
+            }
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
