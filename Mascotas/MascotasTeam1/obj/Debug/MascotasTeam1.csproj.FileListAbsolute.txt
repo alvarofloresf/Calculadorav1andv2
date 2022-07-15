@@ -1,0 +1,10 @@
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\bin\Debug\MascotasTeam1.exe.config
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\bin\Debug\MascotasTeam1.exe
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\bin\Debug\MascotasTeam1.pdb
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.csproj.AssemblyReference.cache
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.Mascotas.resources
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.Properties.Resources.resources
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.csproj.GenerateResource.cache
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.csproj.CoreCompileInputs.cache
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.exe
+C:\Users\maria.prado\ProjectsNiceCXONE\MascotasTeam1\MascotasTeam1\obj\Debug\MascotasTeam1.pdb
